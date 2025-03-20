@@ -43,3 +43,6 @@ The following people contributed to this module:
 - Nick Marden
 - Pavel Shaydo
 - Tee Shuwn Yuan
+
+
+Minor update to documentation.
